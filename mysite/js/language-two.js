@@ -1,9 +1,12 @@
 now = new Date(), hour = now.getHours()
-if (hour < 6) { document.write("公告栏：夜已深，请早歇息，祝主人梦中如意！") }
-else if (hour < 9) { document.write("公告栏：主人欢迎来到淬殇宫") }
-else if (hour < 12) { document.write("公告栏：主人欢迎来到淬殇宫") }
-else if (hour < 14) { document.write("公告栏：主人欢迎来到淬殇宫") }
-else if (hour < 17) { document.write("公告栏：主人欢迎来到淬殇宫") }
-else if (hour < 19) { document.write("公告栏：主人欢迎来到淬殇宫") }
-else if (hour < 22) { document.write("公告栏：主人欢迎来到淬殇宫") }
-else { document.write("主人，请尽早歇息") } 
+if (hour < 3) { document.write("公告栏：夜已深，请早歇息，祝小主梦中如意！") }
+else if (hour < 6) { document.write("公告栏：（暂无刷新）欢迎小主来到淬殇阁，祝小主每一天都有不错的成长，为小主可磨练平台：好玩友。若选择回归为小主推荐好玩友：熹妃传、浮生为卿歌、宫廷计和京门风月。若选择仙眷侣为小主推荐好玩友：代号X") }
+else if (hour < 12) { document.write("公告栏：（暂无刷新）欢迎小主来到淬殇阁，祝小主每一天都有不错的成长，为小主可磨练平台：好玩友。若选择回归为小主推荐好玩友：熹妃传、浮生为卿歌、宫廷计和京门风月。若选择仙眷侣为小主推荐好玩友：代号X") }
+else if (hour < 13) { document.write("公告栏：小主该用膳啦，别饿坏了小主的贵体") }
+else if (hour < 14) { document.write("公告栏：小主用膳了么，别饿坏了小主的贵体哦") }
+else if (hour < 17) { document.write("公告栏：（暂无刷新）欢迎小主来到淬殇阁，祝小主每一天都有不错的成长，为小主可磨练平台：好玩友。若选择回归为小主推荐好玩友：熹妃传、浮生为卿歌、宫廷计和京门风月。若选择仙眷侣为小主推荐好玩友：代号X") }
+else if (hour < 19) { document.write("公告栏：（暂无刷新）欢迎小主来到淬殇阁，祝小主每一天都有不错的成长，为小主可磨练平台：好玩友。若选择回归为小主推荐好玩友：熹妃传、浮生为卿歌、宫廷计和京门风月。若选择仙眷侣为小主推荐好玩友：代号X") }
+else if (hour < 20) { document.write("公告栏：小主用膳了么，别饿坏了小主的贵体哦") }
+else if (hour < 21) { document.write("公告栏：（暂无刷新）欢迎小主来到淬殇阁，祝小主每一天都有不错的成长，为小主可磨练平台：好玩友。若选择回归为小主推荐好玩友：熹妃传、浮生为卿歌、宫廷计和京门风月。若选择仙眷侣为小主推荐好玩友：代号X") }
+else if (hour < 23) { document.write("公告栏：（暂无刷新）欢迎小主来到淬殇阁，祝小主每一天都有不错的成长，为小主可磨练平台：好玩友。若选择回归为小主推荐好玩友：熹妃传、浮生为卿歌、宫廷计和京门风月。若选择仙眷侣为小主推荐好玩友：代号X") }
+else { document.write("小主，请尽早歇息") } 

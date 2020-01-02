@@ -147,6 +147,7 @@ a {
     right: 30px;*/
     top: 50%;
     right: 1.95%;
+    border-radius: 50%;
 }
 
 #box-one nav .top {
@@ -161,7 +162,7 @@ a {
 }
 
 #box-one nav .top li {
-    border: 1px rgb(90, 7, 86) solid;
+    /*border: 1px rgb(90, 7, 86) solid;*/
     /*width: 100px;*/
     width: 15%;
     height: 80px;
@@ -179,7 +180,7 @@ a {
 }
 
 #box-one nav .top:hover {
-    background-color: rgba(225, 225, 255, 0.5);
+    /*background-color: rgba(225, 225, 255, 0.5);*/
 }
 
 #box-one nav .top li:hover {
@@ -208,6 +209,7 @@ a {
     background-color: #ffc0cb;
     margin-bottom: 1px;
     font-size: 18px;
+    border-radius: 50%;
 }
 
 #box-two .left li:hover {
@@ -252,7 +254,7 @@ a {
     text-align: center;
     letter-spacing: 10px;
 }
-
+/*-----------------------------------------------轮播图----------------------------------------*/
 #box-three .swiper-container {
     /*width: 300px;*/
     width: 19.5%;
@@ -534,7 +536,7 @@ a {
 }
 
 #box-five footer .logo {
-    width: 200px;
+    width: 250px;
     height: 70px;
     margin-left: 20px;
     padding-top: 10px;
@@ -572,8 +574,10 @@ a {
     letter-spacing: 10px;
 }
 #box-seven {
-    width: 250px;
-    height: 220px;
+    /*width: 250px;
+    height: 220px;*/
+    width: 16%;
+    height: 29.7%;
     position: absolute;
     top: 80%;
     right: 3%;
@@ -582,8 +586,10 @@ a {
 #box-seven img {
     float: left;
     display: block;
-    width: 25px;
-    height: 25px;
+    /*width: 25px;
+    height: 25px;*/
+    width: 10%;
+    height: 11%;
     margin-right: 2px;
     margin-bottom: 2px;
     border-radius: 3px;

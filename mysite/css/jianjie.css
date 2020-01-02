@@ -1,0 +1,75 @@
+#box-three .hunli {
+    width: 15%;
+    height: 5%;
+    line-height: 245%;
+    position: absolute;
+    top: 33.8%;
+    left: 63.1%;
+    text-align: center;
+}
+
+#box-three .hunli a {
+    font-size: large;
+    color: #9dac18;
+}
+
+#box-three .hunli a:hover {
+    color: #ddec57;
+}
+
+#box-three .jianjie {
+    position: absolute;
+    width: 68%;
+    height: 68%;
+    top: 40%;
+    left: 8%;
+    background-image: url(../images/gongdian-three.jpg);
+    background-size: cover;
+    overflow: hidden;
+}
+
+#box-three .jianjie div[class*="jianjie-box"] {
+    position: absolute;
+    width: 100%;
+    height: 10%;
+    display: flex;
+    align-items: center;
+}
+
+#box-three .jianjie a[class*="btn"] {
+    width: 11%;
+    height: 37%;
+    font: bold 18px '幼圆';
+    padding: 0 0 0 9%;
+    color: #7fb641;
+}
+
+#box-three .jianjie .pt {
+    width: 95%;
+    height: 89.5%;
+    color: #b89d27;
+    padding-top: 5%;
+}
+
+#box-three .jianjie .pt p {
+    text-indent: 2em;
+    font: bold 18px '幼圆';
+    padding-top: 1%;
+}
+#box-three .jianjie .pt p:nth-child(3),
+#box-three .jianjie .pt p:nth-child(4),
+#box-three .jianjie .pt p:nth-child(5),
+#box-three .jianjie .pt p:nth-child(6){
+    text-indent: 4em;
+}
+
+#box-three .jianjie a:hover {
+    color: #ffc0cb
+}
+
+#box-three .jianjie div[class*="box-one"] {
+    margin-top: -4.95%;
+}
+#box-three .jianjie .pt{
+    margin: 0 auto;
+}
